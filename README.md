@@ -20,9 +20,9 @@
 
 ## Conclusions
 - Intial model was overfitting. Difference between train and validation accuracy was very high. The train accuracy was 88% and the validation accuracy wass only 54%
-- Augmentation strategy was used to rectify the problem. There has been a considerable improvement now as compared to the previous model the model overfitting was handled, but the model performance was not so good only 60.7% train and 54.6% validation accuracy.
+- Augmentation strategy was used to rectify the problem. There was a considerable improvement now as compared to the previous model, the overfitting was handled, but the model performance was not so good only 60.7% train and 54.6% validation accuracy.
 - There was high class imbalance in the Model. Seborrheic keratosis had the least number(77) of samples.Pigmented benign keratosis had the highest number(462) of samples.
-- Class imbalance problem was rectified and model was retrained. After this the overfitting problem was removed. train accuracy 89.8% and validation accuracy 79.6%
+- Class imbalance problem was rectified and model was retrained. After this the overfitting problem was removed, train accuracy 89.8% and validation accuracy 79.6%
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
